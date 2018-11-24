@@ -1,0 +1,117 @@
+"Symbol"~"Description"~"Rate"~"Issued"~"Maturity"~"UnderlyingSymbol"~"ConversionPrice"~"ConversionRate"~"ProspectusUrl"
+"VNP.DB"~"5N PLUS Inc. 5.75% Debentures"~5.75~~~~~~
+"ARE.DB.B"~"Aecon Group Inc. 5.5% Debentures"~5.50~~~~~~
+"ARE.DB.C"~"Aecon Group Inc. 5.00% Debentures"~5.00~~~~~~
+"AFN.DB.B"~"Ag Growth International Inc. 5.25% Deb"~5.25~~~~~~
+"AFN.DB.C"~"Ag Growth International Inc. 5.00% Deb"~5.00~~~~~~
+"AFN.DB.D"~"Ag Growth International Inc. 4.85% Deb"~4.85~~~~~~
+"AFN.DB.E"~"Ag Growth International Inc. 4.50% Deb"~4.50~~~~~~
+"CLIQ.DB"~"Alcanna Inc. 4.70% Debentures"~4.70~~~~~~
+"ALC.DB.A"~"Algoma Central Corporation 5.25% Debentures"~5.25~"2017-06-30"~"2024-06-30"~"ALC"~21.15~4.7~"http://www.algonet.com/news-item/algoma-central-corporation-announces-75-million-public-offering-of-5-25-convertible-unsecured-subordinated-debentures/"
+"HOT.DB.U"~"American Hotel Income Properties REIT LP 5.00% Debentures USF"~5.00~~~~~~
+"ATP.DB.D"~"Atlantic Power Corporation 6% Series D Debentures"~6.00~~"2019-12-31"~"ATP"~14.50~6.9~"https://www.atlanticpower.com/about-us"
+"ATP.DB.E"~"Atlantic Power Corporation 6% Series E Debentures"~6.00~~"2025-01-31"~"ATP"~4.20~23.8~"https://www.atlanticpower.com/about-us"
+"AI.DB"~"Atrium Mortgage Investment Corporation 5.25% Debentures"~5.25~~~~~~
+"AI.DB.A"~"Atrium Mortgage Investment Corporation 6.25% Debentures"~6.25~~~~~~
+"AI.DB.B"~"Atrium Mortgage Investment Corporation 5.5% Debentures"~5.50~~~~~~
+"AI.DB.C"~"Atrium Mortgage Investment Corporation 5.30% Debentures"~5.30~~~~~~
+"BXE.DB"~"Bellatrix Exploration Ltd. 6.75% Debentures"~6.75~~~~~~
+"BB.DB.V"~"BlackBerry Limited 3.75% convertible unsecured debentures USF"~3.75~~~~~~
+"BLX.DB.A"~"Boralex Inc. 4.5% Debentures"~4.50~~~~~~
+"BOY.DB.A"~"Boyuan Construction Group Inc. 11.5% Debentures"~11.50~~~~~~
+"BTB.DB.E"~"BTB Real Estate Invest Trust 6.9% Deb"~6.90~"2013-03-31"~"2020-03-31"~"BTB.UN"~6.15~16.3~"https://drive.google.com/open?id=1QmCjUdBZ4BxR-ii5wWzPq5T69WklHIiH"
+"BTB.DB.F"~"BTB Real Estate Invest Trust Series F 7.15% Debentures J"~7.15~"2015-12-31"~"2020-12-31"~"BTB.UN"~5.65~17.7~"https://drive.google.com/open?id=1ZLE6vLzskqU72wisioHg2mOwL1SNHBv0"
+"CF.DB.A"~"Canaccord Genuity Group Inc. 6.25% Debentures"~6.25~"2018-08-31"~"2023-12-31"~"CF"~10.00~10.0~"https://www.canaccordgenuity.com/globalassets/investor-relations/documents/shareholder-information/FinalShortFormProspectusAug2018"
+"CJ.DB"~"Cardinal Energy Ltd. J 5.5% Debentures"~5.50~~~~~~
+"CJT.DB.C"~"Cargojet Inc. 4.65% Debentures"~4.65~~~~~~
+"CHE.DB.B"~"Chemtrade Logistics Income Fund 5.25% Debentures"~5.25~~~~~~
+"CHE.DB.C"~"Chemtrade Logistics Income Fund 5.00% Debentures"~5.00~~~~~~
+"CHE.DB.D"~"Chemtrade Logistics Income Fund 4.75% Debentures"~4.75~~~~~~
+"CHR.DB"~"Chorus Aviation Inc. 6% Senior Debentures"~6.00~~~~~~
+"CGX.DB.A"~"Cineplex Inc. 4.5% Debentures"~4.50~~~~~~
+"GCL.DB.A"~"Colabor Group Inc. 6.00% Debentures"~6.00~~~~~~
+"CSU.DB"~"Constellation Sofrware Inc. Floating Rate Debentures Series 1"~1.00~~~~~~
+"CRWN.DB"~"Crown Capital Partners Inc. J  5 year 6.00% debentures"~6.00~"2018-06-30"~"2023-06-30"~"CRWN"~13.70~7.3~"https://drive.google.com/open?id=146o_mFK1bM0eZbXjbSvZoiIy3uy7tmwk"
+"DHX.DB"~"DHX Media Ltd. 5.875% Debentures"~5.88~~~~~~
+"DCF.DB"~"Difference Capital Financial Inc. J 8% Deb"~8.00~~~~~~
+"DIV.DB"~"Diversified Royalty Corp. 5.25% Debentures"~5.25~~~~~~
+"DII.DB.U"~"Dorel Industries Inc. 5.5% Debentures USF"~5.50~"2014-11-30"~"2019-11-30"~"DII.B"~46.75~2.1~"https://drive.google.com/open?id=1EexFkzwrKJ_dJ3VYzT7HYOjjGaEpK-h_"
+"EFN.DB"~"Element Fleet Management Corp. 5.125% Debentures"~5.13~~~~~~
+"EFN.DB.A"~"Element Fleet Management Corp. 4.25% Debentures"~4.25~~~~~~
+"EMA.IR"~"Emera Incorporated Instalment Receipts"~~~~~~~
+"EFR.DB"~"Energy Fuels Inc. J Floating Rate Debentures"~~~~~~~
+"ENT.DB"~"ENTREC Corporation 8.50% Debentures"~8.50~~~~~~
+"EIF.DB.F"~"Exchange Income Corporation 5.35% Deb"~5.35~~~~~~
+"EIF.DB.G"~"Exchange Income Corporation 6% Deb"~6.00~~~~~~
+"EIF.DB.H"~"Exchange Income Corporation 5.25% Deb"~5.25~~~~~~
+"EIF.DB.I"~"Exchange Income Corporation 5 Year 5.25% debentures"~5.25~~~~~~
+"EIF.DB.J"~"Exchange Income Corporation 7 Year 5.35% debentures"~5.35~~~~~~
+"EXE.DB.C"~"Extendicare Inc. 5.00% Debentures"~5.00~"2016-04-30"~"2025-04-30"~"EXE"~12.25~8.2~"https://www.extendicare.com/document/626"
+"FSZ.DB"~"Fiera Capital Corporation 5.00% debentures"~5.00~~~~~~
+"FC.DB.B"~"Firm Capital Mortgage 5.40% Debentures"~5.40~"2012-02-29"~"2019-02-28"~"FC"~14.35~7.0~"https://drive.google.com/open?id=1n9lHo5KRJLEUuXciEPzRprh0BQXOoGgG"
+"FC.DB.C"~"Firm Capital Mortgage 5.25% Debentures"~5.25~"2012-03-31"~"2019-03-31"~"FC"~14.80~6.8~"https://drive.google.com/open?id=1Xzi_83D6YA7M2WaFMv7Uc8v3op9L3VfN"
+"FC.DB.D"~"Firm Capital Mortgage 4.75% Debentures"~4.75~"2013-03-31"~"2020-03-31"~"FC"~15.80~6.3~"https://drive.google.com/open?id=1MsYFelJug5xKSGNKZu_iIa-qeBWnl0h9"
+"FC.DB.E"~"Firm Capital Mortgage 5.30% Debentures"~5.30~"2015-05-31"~"2022-05-31"~"FC"~13.95~7.2~"https://drive.google.com/open?id=1G6CIEMsOMdXVe1dMFq_5-X-_kcl_67R4"
+"FC.DB.F"~"Firm Capital Mortgage 5.50% Debentures"~5.50~"2015-12-31"~"2022-12-31"~"FC"~14.00~7.1~"https://drive.google.com/open?id=1Lc27k7_L_F1mpWM0ZHOi2Dmx_q6sTRlj"
+"FC.DB.G"~"Firm Capital Mortgage Investment Corporation 5.20% Debentures"~5.20~"2016-12-31"~"2023-12-31"~"FC"~15.25~6.6~"https://drive.google.com/open?id=15YAiJyQhyc89Gpdm5xC2LxuPm_4D29qy"
+"FC.DB.H"~"Firm Capital Mortgage Investment Corporation 5.30% Debentures"~5.30~"2017-08-31"~"2024-08-31"~"FC"~15.25~6.6~
+"FC.DB.I"~"Firm Capital Mortgage Investment Corporation 5.40% debentures"~5.40~"2018-06-30"~"2025-06-30"~"FC"~15.00~6.7~"https://drive.google.com/open?id=13SQeURauIFQtPI7AIgKQ21mhJiGYtzpB"
+"FGE.DB.A"~"Fortress Global Enterprises Inc. 7% Debentures"~7.00~~~~~~
+"GDI.DB"~"GDI Integrated Facility Services Inc. J 5.00% Debentures"~5.00~~~~~~
+"GEI.DB"~"Gibson Energy Inc. 5.25% Debentures"~5.25~~~~~~
+"GSY.DB"~"goeasy Ltd. 5.75% Debentures"~5.75~~~~~~
+"HLC.DB"~"Holloway Lodging Corporation 6.25% B Deb"~6.25~~~~~~
+"HLC.DB.A"~"Holloway Lodging Corporation 7.5% Deb"~7.50~~~~~~
+"H.IR"~"Hydro One Limited Instalment Receipts"~~~~~~~
+"IBG.DB.C"~"IBI Group Inc. 7% Debentures"~7.00~~~~~~
+"IBG.DB.D"~"IBI Group Inc. 5.50% Debentures"~5.50~~~~~~
+"INE.DB.A"~"Innergex Renewable Energy 4.25% Deb"~4.25~~~~~~
+"INE.DB.B"~"Innergex Renewable Energy Inc. 4.75% debentures"~4.75~~~~~~
+"IVQ.DB.U"~"Invesque Inc.5.00% Debentures USF"~5.00~~~~~~
+"IVQ.DB.V"~"Invesque Inc.6.00% Debentures USF"~6.00~~~~~~
+"JE.DB.C"~"Just Energy Group Inc. 6.75% Debentures"~6.75~~~~~~
+"JE.DB.D"~"Just Energy Group Inc. 6.75% Debentures"~6.75~~~~~~
+"KEL.DB"~"Kelt Exploration Ltd. J 5% Deb"~5.00~~~~~~
+"LNF.DB"~"Leon’s Furniture Limited 3% Debentures"~3.00~~~~~~
+"DR.DB.A"~"Medical Facilities Corporation 5.90% Debentures"~5.90~~~~~~
+"MR.DB"~"Melcor Real Estate Investment Trust 5.5% Debentures"~5.50~~~~~~
+"MR.DB.A"~"Melcor Real Estate Investment Trust 5.25% Debentures"~5.25~~~~~~
+"MOGO.DB"~"Mogo Finance Technology Inc. J 10.0% Debentures"~10.00~~~~~~
+"MRG.DB.A"~"Morguard North American Residential Real Estate Investment Trust 4.50% Debentures"~4.50~~~~~~
+"MRT.DB"~"Morguard Real Estate Investment Trust 4.50% Debentures"~4.50~~~~~~
+"MSI.DB.A"~"Morneau Shepell Inc. 4.75% Debentures"~4.75~~~~~~
+"NOA.DB"~"North American Construction Group Ltd. 5.50% Debentures"~5.50~~~~~~
+"NPI.DB.B"~"Northland Power Inc. 5% Debentures B"~5.00~~"2019-06-30"~"NPI"~21.60~4.6~
+"NPI.DB.C"~"Northland Power Inc. 4.75% Debentures C"~4.75~~"2020-06-30"~"NPI"~21.60~4.6~
+"NVU.DB"~"Northview Apartment Real Estate Investment Trust 5.75% Debentures"~5.75~~~~~~
+"NWH.DB"~"NorthWest Healthcare Properties Real Estate Investment Trust 5.25% Debentures"~5.25~"2013-09-30"~"2020-09-30"~"NWH.UN"~14.20~7.0~
+"NWH.DB.C"~"NorthWest Healthcare Properties Real Estate Investment Trust 7.25% Debentures"~7.25~"2014-09-30"~"2019-10-31"~"NWH.UN"~12.50~8.0~
+"NWH.DB.D"~"NorthWest Healthcare Properties Real Estate Investment Trust 5.5% Debentures"~5.50~"2015-10-31"~"2020-10-31"~"NWH.UN"~11.25~8.9~
+"NWH.DB.E"~"NorthWest Healthcare Properties Real Estate Investment Trust 5.25% Debentures"~5.25~~"2021-07-31"~"NWH.UN"~12.75~7.8~
+"NWH.DB.F"~"NorthWest Healthcare Properties Real Estate Investment Trust 5.25% Debentures"~5.25~~"2021-12-31"~"NWH.UN"~12.80~7.8~
+"OR.DB"~"Osisko Gold Royalties Ltd J 4.00% Debentures"~4.00~~~~~~
+"PPL.DB.F"~"Pembina Pipeline Corporation 5.75% Debentures"~5.75~~~~~~
+"PLZ.DB.E"~"Plazacorp Retail REIT  5.10% Debentures"~5.10~~~~~~
+"PBH.DB.E"~"Premium Brands Holdings Corp. 4.65% Deb"~4.65~~~~~~
+"PBH.DB.F"~"Premium Brands Holdings Corporation 4.60% Debentures"~4.60~~~~~~
+"PBH.DB.G"~"Premium Brands Holdings Corporation 4.65% Debentures"~4.65~~~~~~
+"RSI.DB.E"~"Rogers Sugar Inc. 5.00% Deb"~5.00~~~~~~
+"RSI.DB.F"~"Rogers Sugar Inc. 4.75% Deb"~4.75~~~~~~
+"SOT.DB"~"Slate Office REIT 5.25% Debentures"~5.25~~~~~~
+"SRU.DB.B"~"SmartCentres Real Estate Investment Trust 5.50% Debentures"~5.50~~~~~~
+"SEV.DB.A"~"Spectra7 Microsystems Inc. J 7.00% Debentures"~7.00~~~~~~
+"SWY.DB.U"~"Stornoway Diamond Corporation 6.25% Debentures"~6.25~~~~~~
+"SOX.DB.A"~"Stuart Olson Inc. 6% Debentures"~6.00~~~~~~
+"SGY.DB"~"Surge Energy Inc. 5.75% Debentures"~5.75~~~~~~
+"TPH.DB.E"~"Temple Hotels Inc.  7.25% Series E Deb"~7.25~~~~~~
+"TVK.DB"~"TerraVest Industries Inc. 7% Debentures"~7.00~~~~~~
+"TF.DB"~"Timbercreek Financial Corp. 6.35% Debentures"~6.35~~~~~~
+"TF.DB.A"~"Timbercreek Financial Corp. 5.40% Debentures"~5.40~~~~~~
+"TF.DB.B"~"Timbercreek Financial Corp. 5.45% Debentures"~5.45~~~~~~
+"TF.DB.C"~"Timbercreek Financial Corp. 5.30% Debentures"~5.30~~~~~~
+"TEI.DB"~"Toscana Energy Income Corporation 7.25% Debentures J"~7.25~~~~~~
+"TCN.DB.A"~"Tricon Capital Group Inc. 5.60% Debentures"~5.60~~~~~~
+"TCN.DB.U"~"Tricon Capital Group Inc. 5.75% Debentures USF"~5.75~~~~~~
+"WEQ.DB"~"WesternOne Inc. 6.25% Debentures"~6.25~~~~~~
+"YPG.DB"~"Yellow Pages Digital & Media Solutions Limited Senior Exchangeable Debentures"~~~~~~~
+"ZAR.DB.A"~"Zargon Oil & Gas Ltd. 8% Debentures"~8.00~~~~~~

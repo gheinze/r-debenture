@@ -1,0 +1,86 @@
+---
+title: "r-debenture"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Preparing the Environment
+
+### Libraries
+
+#### pdftools
+
+`pdftools` (see: <https://ropensci.org/blog/2016/03/01/pdftools-and-jeroen/>)
+
+Requires OS dependency install:
+
+```
+sudo apt-get install libpoppler-cpp-dev
+```
+
+#### alphavantage
+
+`alphavantage4` (see: https://www.business-science.io/code-tools/2017/09/03/alphavantager-0-1-0.html)
+
+```
+install.packages("alphavantager")
+library(alphavantager)
+av_api_key("YOUR_API_KEY")
+print(av_api_key())
+```
+Get the key from the environment with `Sys.getenv("ALPHAVANTAGE_KEY")` and put the environment variables in `~/.Renviron`
+
+```
+av_get(symbol = "MSFT", av_fun = "TIME_SERIES_INTRADAY", interval = "15min", outputsize = "compact")
+```
+
+## Appendix
+
+### Library Management
+
+Library dependencies are installed with the `install.packages()` command and by default results in in the library package being placed in `/home/gheinze/R/x86_64-pc-linux-gnu-library/3.4/`
+
+```
+install.packages("pdftools")
+```
+
+The package could be explicitly loaded into another location:
+
+```
+install.packages("pdftools", lib="~/r-library")
+```
+
+The `Rprofile.site` allows global configuration of the R environment.  The following line could be added to extend the `libPaths`:
+
+```
+.libPaths( c( "~/r-library", .libPaths() ) )
+```
+
+To determine location of the `Rprofile.site`, query R directly:
+
+```
+gheinze@gheinze-t410 ~ $ R RHOME
+/usr/lib/R
+
+gheinze@gheinze-t410 ~ $ R
+> Sys.getenv("R_HOME")
+[1] "/usr/lib/R"
+```
+
+Alternatively, for non-global configuration, set the environment variable `R_LIBS_USER` to the libPaths.
+
+By default, the library is pulled from the `CRAN` repository.
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
